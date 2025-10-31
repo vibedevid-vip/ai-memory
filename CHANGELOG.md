@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0] - 2025-10-31
+
+### Added
+- **AI_PROMPT.md Auto-Generation**: Now creates a 4th file with ready-to-use AI prompt
+- No placeholders - fully automated with actual project info (name, framework, description)
+- Users just copy-paste to their AI agent - zero manual editing
+- Improved CLI output with clear setup instructions
+
+### Changed
+- Updated success message to highlight AI_PROMPT.md
+- Simplified next steps (removed manual customization requirement)
+
 ## [1.0.0] - 2025-10-31
 
 ### Added
