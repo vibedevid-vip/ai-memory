@@ -1,0 +1,51 @@
+{
+  "name": "@vibedevid/ai-memory",
+  "version": "1.0.0",
+  "description": "AI Knowledge & Memory System - Give your AI agents perfect memory in 3 files",
+  "keywords": [
+    "ai",
+    "memory",
+    "documentation",
+    "knowledge-base",
+    "ai-agents",
+    "cursor",
+    "copilot",
+    "claude",
+    "chatgpt",
+    "project-memory"
+  ],
+  "main": "src/init.js",
+  "bin": {
+    "ai-memory": "bin/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vibedevid-vip/ai-memory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vibedevid-vip/ai-memory/issues"
+  },
+  "homepage": "https://github.com/vibedevid-vip/ai-memory#readme",
+  "author": "VibeDev ID",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.0",
+    "ora": "^7.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "files": [
+    "bin",
+    "src",
+    "templates",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ]
+}
