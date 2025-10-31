@@ -2,8 +2,10 @@
 
 > Give your AI agents perfect memory in 3 files
 
-[![npm](https://img.shields.io/npm/v/@vibedevid/ai-memory)](https://www.npmjs.com/package/@vibedevid/ai-memory)
+[![npm version](https://img.shields.io/npm/v/@vibedevid/ai-memory.svg?style=flat)](https://www.npmjs.com/package/@vibedevid/ai-memory)
+[![npm downloads](https://img.shields.io/npm/dm/@vibedevid/ai-memory.svg?style=flat)](https://www.npmjs.com/package/@vibedevid/ai-memory)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/vibedevid-vip/ai-memory?style=flat)](https://github.com/vibedevid-vip/ai-memory)
 
 ## What is This?
 
