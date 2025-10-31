@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2025-10-31
+
+### Changed
+- **AGENTS.md Template Improvements**: 
+  - Reduced to ≤150 lines following best practices
+  - Concrete commands wrapped in backticks (copy-paste ready)
+  - Added verification checklist before merge
+  - Clear step-by-step workflow
+  - Best practices section included
+- **technical_overview.md Template Improvements**:
+  - Starts with AI analysis prompt for automated generation
+  - Structured sections: Core Components, Interactions, Deployment, Runtime
+  - Includes code snippet examples
+  - More actionable and less placeholder-heavy
+
+### Benefits
+- Templates are now automation-first (no manual placeholder filling)
+- Follows industry best practices for agent guidelines
+- AI agents can self-populate technical_overview.md using provided prompt
+
 ## [1.1.0] - 2025-10-31
 
 ### Added
