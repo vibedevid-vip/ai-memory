@@ -16,7 +16,7 @@
   ],
   "main": "src/init.js",
   "bin": {
-    "ai-memory": "bin/cli.js"
+    "ai-memory": "./bin/cli.js"
   },
   "type": "module",
   "scripts": {
